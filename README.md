@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rudolf Tetteh
 =====================================================================================================================================
 
-Electrical Engineering Student. Python, Kotlin, App developer, Automation.
+Front-End Developer
+Python, Kotlin, Web and App developement, Automation.
 --------------------------------------------------------------------------
 
-Been coding for 2years. Experienced in Python. Proficient with MATLAB due to my engineering background.
+Been coding for 3years. Experienced in Python. Proficient with MATLAB due to my engineering background.
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [rudolftetteh16@gmail.com](mailto:rudolftetteh16@gmail.com)
