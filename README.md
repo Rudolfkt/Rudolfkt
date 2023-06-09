@@ -9,7 +9,7 @@ Been coding for 3years. Experienced in Python, Flutter App Development, MATLAB.
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [rudolftetteh16@gmail.com](mailto:rudolftetteh16@gmail.com)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Mobile and Web Apps projects
+* 🤝  I'm open to collaborating on Mobile and Web App projects
 * ⚡  I do Photoshop and play chess in my spare time.
 
 <a href="https://www.github.com/Rudolfkt" target="_blank" rel="noreferrer"><img
