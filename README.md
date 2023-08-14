@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Mobile App Developer
 -----------------------------
 
-Been coding for 3years. Experienced in Python, Flutter App Development, MATLAB.
+Coding for 3years. Experienced in Python, Flutter, Web & Mobile App Development, MATLAB.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [rudolftetteh16@gmail.com](mailto:rudolftetteh16@gmail.com)
