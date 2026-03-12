@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web & Mobile App Developer
 -----------------------------
 
-Coding for 3years. Experienced in Python, Web & Mobile App Development, MATLAB scripting and simulations.
+Coding for 3years. Experienced in Python, Web & Mobile App Development, MATLAB scripting and simulations. Systems Engineering.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [rudolftetteh16@gmail.com](mailto:rudolftetteh16@gmail.com)
